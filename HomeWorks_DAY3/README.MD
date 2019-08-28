@@ -13,4 +13,4 @@
 
 
 ## Output
-[](https://raw.githubusercontent.com/0xSensei/Homeworks/master/HomeWorks_DAY3/Output.PNG)
+[](/../master/HomeWorks_DAY3/Output.PNG?raw=true)
