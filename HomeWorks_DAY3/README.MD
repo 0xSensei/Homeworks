@@ -1,6 +1,6 @@
-# decimals Summation
+# Decimals Summation
 
-## use Cases used:
+## Test Cases used:
 
 22 asdasd22 22asdasd asd22asd 2d2 asd2asd225asd 22asd2asd 22 = 22 + 22 = 44
 
@@ -11,4 +11,6 @@
 12 9xy4 59   y5t  31 = 12 + 59 + 31 = 102 
 
 
-[](https://github.com/0xSensei/Homeworks/raw/master/HomeWorks_DAY3/Output.PNG)
+
+## Output
+[](https://raw.githubusercontent.com/0xSensei/Homeworks/master/HomeWorks_DAY3/Output.PNG)
