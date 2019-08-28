@@ -14,3 +14,4 @@
 
 ## Output
 [](/../master/HomeWorks_DAY3/Output.PNG?raw=true)
+![](https://raw.githubusercontent.com/0xSensei/Homeworks/master/HomeWorks_DAY3/Output.PNG)
