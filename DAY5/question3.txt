@@ -1,0 +1,32 @@
+This Program scan for string input, you can enter two string separeted with \n and it will concatenate them 
+
+#include "pch.h"
+#include <stdio.h>
+#define SIZE 80
+
+void mystery1(char *s1, const char *s2); // prototype
+int main(void)
+{
+	char string1[SIZE]; // create char array
+	char string2[SIZE]; // create char array
+	puts("Enter two strings: ");
+	scanf_s("%79s%79s", string1, string2);
+	mystery1(string1, string2);
+	printf("%s", string1);
+	
+}
+
+// What does this function do?
+void mystery1(char *s1, const char *s2)
+{
+  // will move the index into the end of string 1, at the end it will point to the string terminator of string1 
+	while (*s1 != '\0') {
+		 ++s1;
+	}
+	  // copy the value of string2 into string1, will stop when it encounter the \0 of string2
+		for (; *s1 = *s2; ++s1, ++s2) {
+		; // empty statement
+		
+	}
+ }
+ 
