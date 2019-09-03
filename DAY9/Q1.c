@@ -1,4 +1,3 @@
- // what does this program do?
 #include <stdio.h>
 #include "math.h"
 // prototypes
