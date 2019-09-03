@@ -1,6 +1,4 @@
-// ex07_20.c
  // what does this program do?
-#include "pch.h"
 #include <stdio.h>
 #include "math.h"
 // prototypes
